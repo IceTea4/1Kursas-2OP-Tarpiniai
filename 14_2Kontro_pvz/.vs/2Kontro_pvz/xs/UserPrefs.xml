@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{98F94B25-5267-4456-9C5C-07248FBCA158}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.2Kontro__pvz PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TaskUtils.cs">
+    <Files>
+      <File FileName="Program.cs" Line="10" Column="29" />
+      <File FileName="TaskUtils.cs" Line="47" Column="1" />
+      <File FileName="Tekstas.txt" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="2Kontro_pvz" expanded="True">
+            <Node name="2Kontro_pvz" expanded="True">
+              <Node name="TaskUtils.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{9A7E8E1E-7F20-4E81-ADC9-324ACAEDD819}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.17Sportas PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="InOut.cs" Line="73" Column="31" />
+      <File FileName="TaskUtils.cs" Line="9" Column="1" />
+      <File FileName="Team.cs" />
+      <File FileName="Basketball.cs" />
+      <File FileName="Football.cs" />
+      <File FileName="Zaidejai.txt" Line="6" Column="44" />
+      <File FileName="Komandos.txt" Line="5" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="17Sportas" expanded="True">
+            <Node name="17Sportas" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

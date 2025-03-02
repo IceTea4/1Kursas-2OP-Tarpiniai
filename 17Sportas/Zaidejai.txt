@@ -1,0 +1,8 @@
+﻿Krepsinis;Zalgiris;Lukosius;Pranas;1980-01-07;6;30;10;3
+Krepsinis;Zalgiris;Kalnietis;Mantas;1981-05-20;8;40;5;7
+Krepsinis;Rytas;Alekna;Linas;1990-02-15;5;28;8;4
+Krepsinis;Moletai;Grybas;Lukas;1985-10-06;4;10;7;5
+Futbolas;Kelme;Zole;Briedis;1982-02-07;6;2;1
+Futbolas;Tauras;Lopas;Eimantas;1986-05-08;9;3;0
+Futbolas;Kelme;Triumas;Antanas;1989-09-27;18;1;0
+Futbolas;Tauras;Backoris;Antanas;1979-11-24;10;2;2

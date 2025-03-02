@@ -1,0 +1,15 @@
+/Users/IceTea/Projects/Raides/bin/Debug/net7.0/Raides
+/Users/IceTea/Projects/Raides/bin/Debug/net7.0/Raides.deps.json
+/Users/IceTea/Projects/Raides/bin/Debug/net7.0/Raides.runtimeconfig.json
+/Users/IceTea/Projects/Raides/bin/Debug/net7.0/Raides.dll
+/Users/IceTea/Projects/Raides/bin/Debug/net7.0/Raides.pdb
+/Users/IceTea/Projects/Raides/obj/Debug/net7.0/Raides.csproj.AssemblyReference.cache
+/Users/IceTea/Projects/Raides/obj/Debug/net7.0/Raides.GeneratedMSBuildEditorConfig.editorconfig
+/Users/IceTea/Projects/Raides/obj/Debug/net7.0/Raides.AssemblyInfoInputs.cache
+/Users/IceTea/Projects/Raides/obj/Debug/net7.0/Raides.AssemblyInfo.cs
+/Users/IceTea/Projects/Raides/obj/Debug/net7.0/Raides.csproj.CoreCompileInputs.cache
+/Users/IceTea/Projects/Raides/obj/Debug/net7.0/Raides.dll
+/Users/IceTea/Projects/Raides/obj/Debug/net7.0/refint/Raides.dll
+/Users/IceTea/Projects/Raides/obj/Debug/net7.0/Raides.pdb
+/Users/IceTea/Projects/Raides/obj/Debug/net7.0/Raides.genruntimeconfig.cache
+/Users/IceTea/Projects/Raides/obj/Debug/net7.0/ref/Raides.dll

@@ -1,0 +1,11 @@
+//Pradžia
+a=0;/*ABC*/b=0;/*EFGH*/ c=0;/*XY*/
+p=1;/*
+A
+B
+C
+D */ D=1;
+S=" ABC/*XY*/KI";
+p=A+B; // Darbas /*
+k=10;/*abc//xyz*/ l=11;
+//Pabaiga

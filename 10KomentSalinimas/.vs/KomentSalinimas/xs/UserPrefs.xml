@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{38F1F502-7517-4DC0-A59F-A8945E2D2A6A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InOut.cs">
+    <Files>
+      <File FileName="Program.cs" Line="7" Column="37" />
+      <File FileName="InOut.cs" Line="26" Column="44" />
+      <File FileName="TaskUtils.cs" Line="30" Column="66" />
+      <File FileName="Duomenys.txt" Line="3" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KomentSalinimas" expanded="True">
+            <Node name="KomentSalinimas" expanded="True">
+              <Node name="InOut.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.KomentSalinimas PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

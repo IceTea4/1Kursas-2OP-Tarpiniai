@@ -1,0 +1,15 @@
+/Users/IceTea/Projects/KomentSalinimas/bin/Debug/net7.0/KomentSalinimas
+/Users/IceTea/Projects/KomentSalinimas/bin/Debug/net7.0/KomentSalinimas.deps.json
+/Users/IceTea/Projects/KomentSalinimas/bin/Debug/net7.0/KomentSalinimas.runtimeconfig.json
+/Users/IceTea/Projects/KomentSalinimas/bin/Debug/net7.0/KomentSalinimas.dll
+/Users/IceTea/Projects/KomentSalinimas/bin/Debug/net7.0/KomentSalinimas.pdb
+/Users/IceTea/Projects/KomentSalinimas/obj/Debug/net7.0/KomentSalinimas.csproj.AssemblyReference.cache
+/Users/IceTea/Projects/KomentSalinimas/obj/Debug/net7.0/KomentSalinimas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/IceTea/Projects/KomentSalinimas/obj/Debug/net7.0/KomentSalinimas.AssemblyInfoInputs.cache
+/Users/IceTea/Projects/KomentSalinimas/obj/Debug/net7.0/KomentSalinimas.AssemblyInfo.cs
+/Users/IceTea/Projects/KomentSalinimas/obj/Debug/net7.0/KomentSalinimas.csproj.CoreCompileInputs.cache
+/Users/IceTea/Projects/KomentSalinimas/obj/Debug/net7.0/KomentSalinimas.dll
+/Users/IceTea/Projects/KomentSalinimas/obj/Debug/net7.0/refint/KomentSalinimas.dll
+/Users/IceTea/Projects/KomentSalinimas/obj/Debug/net7.0/KomentSalinimas.pdb
+/Users/IceTea/Projects/KomentSalinimas/obj/Debug/net7.0/KomentSalinimas.genruntimeconfig.cache
+/Users/IceTea/Projects/KomentSalinimas/obj/Debug/net7.0/ref/KomentSalinimas.dll

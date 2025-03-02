@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{3648180B-33C2-4E61-BEA4-6D5D62E22D3E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StudentsContainer.cs">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="StudentsContainer.cs" Line="8" Column="22" />
+      <File FileName="Studentas.cs" Line="1" Column="1" />
+      <File FileName="Studentai.csv" Line="1" Column="1" />
+      <File FileName="InOutput.cs" Line="1" Column="1" />
+      <File FileName="FacultyRegister.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Univeras" expanded="True">
+            <Node name="Univeras" expanded="True">
+              <Node name="StudentsContainer.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Univeras PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

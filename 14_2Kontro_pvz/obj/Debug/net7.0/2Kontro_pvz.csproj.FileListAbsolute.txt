@@ -1,0 +1,15 @@
+/Users/IceTea/Projects/2Kontro_pvz/bin/Debug/net7.0/2Kontro_pvz
+/Users/IceTea/Projects/2Kontro_pvz/bin/Debug/net7.0/2Kontro_pvz.deps.json
+/Users/IceTea/Projects/2Kontro_pvz/bin/Debug/net7.0/2Kontro_pvz.runtimeconfig.json
+/Users/IceTea/Projects/2Kontro_pvz/bin/Debug/net7.0/2Kontro_pvz.dll
+/Users/IceTea/Projects/2Kontro_pvz/bin/Debug/net7.0/2Kontro_pvz.pdb
+/Users/IceTea/Projects/2Kontro_pvz/obj/Debug/net7.0/2Kontro_pvz.csproj.AssemblyReference.cache
+/Users/IceTea/Projects/2Kontro_pvz/obj/Debug/net7.0/2Kontro_pvz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/IceTea/Projects/2Kontro_pvz/obj/Debug/net7.0/2Kontro_pvz.AssemblyInfoInputs.cache
+/Users/IceTea/Projects/2Kontro_pvz/obj/Debug/net7.0/2Kontro_pvz.AssemblyInfo.cs
+/Users/IceTea/Projects/2Kontro_pvz/obj/Debug/net7.0/2Kontro_pvz.csproj.CoreCompileInputs.cache
+/Users/IceTea/Projects/2Kontro_pvz/obj/Debug/net7.0/2Kontro_pvz.dll
+/Users/IceTea/Projects/2Kontro_pvz/obj/Debug/net7.0/refint/2Kontro_pvz.dll
+/Users/IceTea/Projects/2Kontro_pvz/obj/Debug/net7.0/2Kontro_pvz.pdb
+/Users/IceTea/Projects/2Kontro_pvz/obj/Debug/net7.0/2Kontro_pvz.genruntimeconfig.cache
+/Users/IceTea/Projects/2Kontro_pvz/obj/Debug/net7.0/ref/2Kontro_pvz.dll

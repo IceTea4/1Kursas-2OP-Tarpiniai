@@ -1,0 +1,15 @@
+/Users/IceTea/Projects/4.5/bin/Debug/net7.0/4.5
+/Users/IceTea/Projects/4.5/bin/Debug/net7.0/4.5.deps.json
+/Users/IceTea/Projects/4.5/bin/Debug/net7.0/4.5.runtimeconfig.json
+/Users/IceTea/Projects/4.5/bin/Debug/net7.0/4.5.dll
+/Users/IceTea/Projects/4.5/bin/Debug/net7.0/4.5.pdb
+/Users/IceTea/Projects/4.5/obj/Debug/net7.0/4.5.csproj.AssemblyReference.cache
+/Users/IceTea/Projects/4.5/obj/Debug/net7.0/4.5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/IceTea/Projects/4.5/obj/Debug/net7.0/4.5.AssemblyInfoInputs.cache
+/Users/IceTea/Projects/4.5/obj/Debug/net7.0/4.5.AssemblyInfo.cs
+/Users/IceTea/Projects/4.5/obj/Debug/net7.0/4.5.csproj.CoreCompileInputs.cache
+/Users/IceTea/Projects/4.5/obj/Debug/net7.0/4.5.dll
+/Users/IceTea/Projects/4.5/obj/Debug/net7.0/refint/4.5.dll
+/Users/IceTea/Projects/4.5/obj/Debug/net7.0/4.5.pdb
+/Users/IceTea/Projects/4.5/obj/Debug/net7.0/4.5.genruntimeconfig.cache
+/Users/IceTea/Projects/4.5/obj/Debug/net7.0/ref/4.5.dll

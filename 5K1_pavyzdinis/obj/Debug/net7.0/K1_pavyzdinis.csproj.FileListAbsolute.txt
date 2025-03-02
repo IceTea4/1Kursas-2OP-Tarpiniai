@@ -1,0 +1,15 @@
+/Users/IceTea/Projects/K1_pavyzdinis/obj/Debug/net7.0/K1_pavyzdinis.csproj.AssemblyReference.cache
+/Users/IceTea/Projects/K1_pavyzdinis/obj/Debug/net7.0/K1_pavyzdinis.GeneratedMSBuildEditorConfig.editorconfig
+/Users/IceTea/Projects/K1_pavyzdinis/obj/Debug/net7.0/K1_pavyzdinis.AssemblyInfoInputs.cache
+/Users/IceTea/Projects/K1_pavyzdinis/obj/Debug/net7.0/K1_pavyzdinis.AssemblyInfo.cs
+/Users/IceTea/Projects/K1_pavyzdinis/obj/Debug/net7.0/K1_pavyzdinis.csproj.CoreCompileInputs.cache
+/Users/IceTea/Projects/K1_pavyzdinis/bin/Debug/net7.0/K1_pavyzdinis
+/Users/IceTea/Projects/K1_pavyzdinis/bin/Debug/net7.0/K1_pavyzdinis.deps.json
+/Users/IceTea/Projects/K1_pavyzdinis/bin/Debug/net7.0/K1_pavyzdinis.runtimeconfig.json
+/Users/IceTea/Projects/K1_pavyzdinis/bin/Debug/net7.0/K1_pavyzdinis.dll
+/Users/IceTea/Projects/K1_pavyzdinis/bin/Debug/net7.0/K1_pavyzdinis.pdb
+/Users/IceTea/Projects/K1_pavyzdinis/obj/Debug/net7.0/K1_pavyzdinis.dll
+/Users/IceTea/Projects/K1_pavyzdinis/obj/Debug/net7.0/refint/K1_pavyzdinis.dll
+/Users/IceTea/Projects/K1_pavyzdinis/obj/Debug/net7.0/K1_pavyzdinis.pdb
+/Users/IceTea/Projects/K1_pavyzdinis/obj/Debug/net7.0/K1_pavyzdinis.genruntimeconfig.cache
+/Users/IceTea/Projects/K1_pavyzdinis/obj/Debug/net7.0/ref/K1_pavyzdinis.dll

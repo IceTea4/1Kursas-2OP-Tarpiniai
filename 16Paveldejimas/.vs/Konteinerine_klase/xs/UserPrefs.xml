@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{F939B602-1D8D-480C-BEBB-416CD1D43E65}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Konteinerine__klase PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="InOutUtils.cs" Line="65" Column="50" />
+      <File FileName="AnimalsContainer.cs" Line="116" Column="21" />
+      <File FileName="Animal.cs" Line="37" Column="9" />
+      <File FileName="Animals.csv" Line="2" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Konteinerine_klase" expanded="True">
+            <Node name="Konteinerine_klase" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

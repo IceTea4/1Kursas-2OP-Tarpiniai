@@ -1,0 +1,15 @@
+/Users/IceTea/Projects/17Sportas/bin/Debug/net7.0/17Sportas
+/Users/IceTea/Projects/17Sportas/bin/Debug/net7.0/17Sportas.deps.json
+/Users/IceTea/Projects/17Sportas/bin/Debug/net7.0/17Sportas.runtimeconfig.json
+/Users/IceTea/Projects/17Sportas/bin/Debug/net7.0/17Sportas.dll
+/Users/IceTea/Projects/17Sportas/bin/Debug/net7.0/17Sportas.pdb
+/Users/IceTea/Projects/17Sportas/obj/Debug/net7.0/17Sportas.csproj.AssemblyReference.cache
+/Users/IceTea/Projects/17Sportas/obj/Debug/net7.0/17Sportas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/IceTea/Projects/17Sportas/obj/Debug/net7.0/17Sportas.AssemblyInfoInputs.cache
+/Users/IceTea/Projects/17Sportas/obj/Debug/net7.0/17Sportas.AssemblyInfo.cs
+/Users/IceTea/Projects/17Sportas/obj/Debug/net7.0/17Sportas.csproj.CoreCompileInputs.cache
+/Users/IceTea/Projects/17Sportas/obj/Debug/net7.0/17Sportas.dll
+/Users/IceTea/Projects/17Sportas/obj/Debug/net7.0/refint/17Sportas.dll
+/Users/IceTea/Projects/17Sportas/obj/Debug/net7.0/17Sportas.pdb
+/Users/IceTea/Projects/17Sportas/obj/Debug/net7.0/17Sportas.genruntimeconfig.cache
+/Users/IceTea/Projects/17Sportas/obj/Debug/net7.0/ref/17Sportas.dll

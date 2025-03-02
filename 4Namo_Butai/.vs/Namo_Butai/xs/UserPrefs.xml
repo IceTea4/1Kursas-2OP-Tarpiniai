@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{D4FDBCD4-F13D-49E7-BCD7-6F962BA8F05A}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ButaiRegister.cs">
+    <Files>
+      <File FileName="Program.cs" Line="15" Column="1" />
+      <File FileName="InOutUtils.cs" Line="41" Column="14" />
+      <File FileName="ButaiRegister.cs" Line="63" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Namo_Butai" expanded="True">
+            <Node name="Namo_Butai" expanded="True">
+              <Node name="ButaiRegister.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Namo_Butai" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Namo__Butai PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

@@ -1,0 +1,15 @@
+/Users/IceTea/Projects/Palindromai/bin/Debug/net7.0/Palindromai
+/Users/IceTea/Projects/Palindromai/bin/Debug/net7.0/Palindromai.deps.json
+/Users/IceTea/Projects/Palindromai/bin/Debug/net7.0/Palindromai.runtimeconfig.json
+/Users/IceTea/Projects/Palindromai/bin/Debug/net7.0/Palindromai.dll
+/Users/IceTea/Projects/Palindromai/bin/Debug/net7.0/Palindromai.pdb
+/Users/IceTea/Projects/Palindromai/obj/Debug/net7.0/Palindromai.csproj.AssemblyReference.cache
+/Users/IceTea/Projects/Palindromai/obj/Debug/net7.0/Palindromai.GeneratedMSBuildEditorConfig.editorconfig
+/Users/IceTea/Projects/Palindromai/obj/Debug/net7.0/Palindromai.AssemblyInfoInputs.cache
+/Users/IceTea/Projects/Palindromai/obj/Debug/net7.0/Palindromai.AssemblyInfo.cs
+/Users/IceTea/Projects/Palindromai/obj/Debug/net7.0/Palindromai.csproj.CoreCompileInputs.cache
+/Users/IceTea/Projects/Palindromai/obj/Debug/net7.0/Palindromai.dll
+/Users/IceTea/Projects/Palindromai/obj/Debug/net7.0/refint/Palindromai.dll
+/Users/IceTea/Projects/Palindromai/obj/Debug/net7.0/Palindromai.pdb
+/Users/IceTea/Projects/Palindromai/obj/Debug/net7.0/Palindromai.genruntimeconfig.cache
+/Users/IceTea/Projects/Palindromai/obj/Debug/net7.0/ref/Palindromai.dll

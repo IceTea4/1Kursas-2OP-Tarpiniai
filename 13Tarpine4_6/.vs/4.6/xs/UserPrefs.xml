@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{BBD55C57-4819-4C88-90E2-F0B137C1ECF4}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.4.6 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Duomenys.txt">
+    <Files>
+      <File FileName="Program.cs" Line="12" Column="1" />
+      <File FileName="TaskUtils.cs" Line="51" Column="1" />
+      <File FileName="Duomenys.txt" Line="14" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="4.6" expanded="True">
+            <Node name="4.6" expanded="True">
+              <Node name="Duomenys.txt" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

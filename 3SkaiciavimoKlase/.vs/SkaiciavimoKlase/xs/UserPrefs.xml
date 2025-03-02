@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{8891E60F-E8EF-4BED-A426-1D7518054F53}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.SkaiciavimoKlase PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Dog.cs">
+    <Files>
+      <File FileName="Program.cs" Line="36" Column="33" />
+      <File FileName="InOutUtils.cs" Line="1" Column="19" />
+      <File FileName="DogsRegister.cs" Line="53" Column="10" />
+      <File FileName="Vaccinations.csv" Line="1" Column="1" />
+      <File FileName="Vaccination.cs" Line="1" Column="1" />
+      <File FileName="Gender.cs" Line="1" Column="1" />
+      <File FileName="Dogs.csv" Line="1" Column="1" />
+      <File FileName="Dog.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SkaiciavimoKlase" expanded="True">
+            <Node name="SkaiciavimoKlase" expanded="True">
+              <Node name="Dog.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

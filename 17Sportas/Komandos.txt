@@ -1,0 +1,5 @@
+﻿Zalgiris;Kaunas;Stasius;8
+Rytas;Vilnius;Varnas;6
+Moletai;Moletai;Simas;4
+Tauras;Kaunas;Sapola;10
+Kelme;Kelme;Vytenis;19

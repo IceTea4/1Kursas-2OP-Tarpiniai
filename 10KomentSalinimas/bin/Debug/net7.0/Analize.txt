@@ -1,0 +1,13 @@
+aaaa // dfgdgdfgdfs
+sadfasfsf /* ggdfsgf */ gdsfsgdf /* aaaa*/cccc
+/*sdgfdg*/
+aaa/*dfgdfg*/
+/*sdfsfa*/asdfsdf
+aaaaa/*mmmm*/sddfsg/*dsfdgd
+ddfgsdfgdf
+dfdfsgsd
+sdgdgfsdfgs*/ ggggg /*  aaaa*/ ooo
+        /** Reads, removes comments and prints to two files.
+        @param fin – name of data file
+        @param fout – name of result file
+        @param finfo – name of informative file */
